@@ -8,4 +8,4 @@ Due to the large size of the dataset, we have encountered upload limitations on 
 If you have any issues accessing the dataset, please contact us for assistance.
 
 
-Note that the dataset and Hunter model code will be publicly available upon acceptance of the paper.
+Note that the Hunter model code will be publicly available upon acceptance of the paper.
